@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.apptela"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:6:5-56:19
+12        android:allowBackup="true"
+12-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\Cleyton\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/dente"
+15-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:8:9-39
+16        android:label="@string/app_name"
+16-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@drawable/dente"
+17-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:10:9-44
+18        android:supportsRtl="true"
+18-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AppTela" >
+20-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:12:9-45
+21        <activity
+21-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:14:9-17:51
+22            android:name="com.example.apptela.NonaActivity"
+22-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:15:13-41
+23            android:exported="true"
+23-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:16:13-36
+24            android:screenOrientation="portrait" />
+24-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:17:13-49
+25        <activity
+25-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:18:9-21:51
+26            android:name="com.example.apptela.OitavaActivity"
+26-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:19:13-43
+27            android:exported="true"
+27-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:20:13-36
+28            android:screenOrientation="portrait" />
+28-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:21:13-49
+29        <activity
+29-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:22:9-25:51
+30            android:name="com.example.apptela.SetimaActivity"
+30-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:23:13-43
+31            android:exported="true"
+31-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:24:13-36
+32            android:screenOrientation="portrait" />
+32-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:25:13-49
+33        <activity
+33-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:26:9-29:51
+34            android:name="com.example.apptela.SextaActivity"
+34-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:27:13-42
+35            android:exported="true"
+35-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:28:13-36
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:29:13-49
+37        <activity
+37-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:30:9-33:51
+38            android:name="com.example.apptela.QuintaActivity"
+38-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:31:13-43
+39            android:exported="true"
+39-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:32:13-36
+40            android:screenOrientation="portrait" />
+40-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:33:13-49
+41        <activity
+41-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:34:9-37:51
+42            android:name="com.example.apptela.QuartaActivity"
+42-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:35:13-43
+43            android:exported="true"
+43-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:36:13-36
+44            android:screenOrientation="portrait" />
+44-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:37:13-49
+45        <activity
+45-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:38:9-41:51
+46            android:name="com.example.apptela.TerceiraActivity"
+46-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:39:13-45
+47            android:exported="true"
+47-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:40:13-36
+48            android:screenOrientation="portrait" />
+48-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:41:13-49
+49        <activity
+49-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:42:9-45:52
+50            android:name="com.example.apptela.SegundaActivity"
+50-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:43:13-44
+51            android:exported="true"
+51-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:44:13-36
+52            android:screenOrientation="portrait" />
+52-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:45:13-49
+53        <activity
+53-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:46:9-55:20
+54            android:name="com.example.apptela.MainActivity"
+54-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:47:13-41
+55            android:exported="true"
+55-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:48:13-36
+56            android:screenOrientation="portrait" >
+56-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:49:13-49
+57            <intent-filter>
+57-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:50:13-54:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:51:17-69
+58-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:51:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:53:17-77
+60-->C:\Users\Cleyton\Downloads\androidapp-master\androidapp-master\app\src\main\AndroidManifest.xml:53:27-74
+61            </intent-filter>
+62        </activity>
+63    </application>
+64
+65</manifest>
