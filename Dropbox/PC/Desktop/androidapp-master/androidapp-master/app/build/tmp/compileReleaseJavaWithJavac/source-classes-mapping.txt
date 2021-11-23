@@ -1,0 +1,36 @@
+com/example/apptela/TerceiraActivity.java
+ com.example.apptela.TerceiraActivity
+ com.example.apptela.TerceiraActivity$1
+ com.example.apptela.TerceiraActivity$2
+com/example/apptela/QuartaActivity.java
+ com.example.apptela.QuartaActivity
+ com.example.apptela.QuartaActivity$1
+ com.example.apptela.QuartaActivity$2
+com/example/apptela/BuildConfig.java
+ com.example.apptela.BuildConfig
+com/example/apptela/SegundaActivity.java
+ com.example.apptela.SegundaActivity
+ com.example.apptela.SegundaActivity$1
+ com.example.apptela.SegundaActivity$2
+com/example/apptela/Player.java
+ com.example.apptela.Player
+com/example/apptela/QuintaActivity.java
+ com.example.apptela.QuintaActivity
+ com.example.apptela.QuintaActivity$1
+ com.example.apptela.QuintaActivity$2
+com/example/apptela/SetimaActivity.java
+ com.example.apptela.SetimaActivity
+ com.example.apptela.SetimaActivity$1
+com/example/apptela/SextaActivity.java
+ com.example.apptela.SextaActivity
+ com.example.apptela.SextaActivity$1
+ com.example.apptela.SextaActivity$2
+com/example/apptela/MainActivity.java
+ com.example.apptela.MainActivity
+ com.example.apptela.MainActivity$1
+com/example/apptela/OitavaActivity.java
+ com.example.apptela.OitavaActivity
+ com.example.apptela.OitavaActivity$1
+com/example/apptela/NonaActivity.java
+ com.example.apptela.NonaActivity
+ com.example.apptela.NonaActivity$1
