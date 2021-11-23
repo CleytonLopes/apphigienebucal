@@ -1,3 +1,5 @@
+com/example/apptela/BuildConfig.java
+ com.example.apptela.BuildConfig
 com/example/apptela/TerceiraActivity.java
  com.example.apptela.TerceiraActivity
  com.example.apptela.TerceiraActivity$1
@@ -6,8 +8,6 @@ com/example/apptela/QuartaActivity.java
  com.example.apptela.QuartaActivity
  com.example.apptela.QuartaActivity$1
  com.example.apptela.QuartaActivity$2
-com/example/apptela/BuildConfig.java
- com.example.apptela.BuildConfig
 com/example/apptela/SegundaActivity.java
  com.example.apptela.SegundaActivity
  com.example.apptela.SegundaActivity$1
